@@ -1,2 +1,2 @@
 # first_project
-Learn github 222
+Learn git and github
